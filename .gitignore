@@ -1,0 +1,4 @@
+# Ignore these because this will get really big and hearty to push to repo
+node_modules
+# Ingnore the .next/dev because this is also hearty too
+.next
